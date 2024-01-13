@@ -1,0 +1,11 @@
+--2024-01-13 21:56:21--  https://packages.microsoft.com/keys/microsoft.asc
+Resolving packages.microsoft.com (packages.microsoft.com)... 40.114.136.21
+Connecting to packages.microsoft.com (packages.microsoft.com)|40.114.136.21|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 983 [application/octet-stream]
+Saving to: ‘STDOUT’
+
+-                                0%[                                                  ]       0  --.-KB/s               -                              100%[=================================================>]     983  --.-KB/s    in 0s      
+
+2024-01-13 21:56:21 (1.53 GB/s) - written to stdout [983/983]
+
