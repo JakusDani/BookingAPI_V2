@@ -5,6 +5,8 @@ VisualStudioVersion = 17.0.31903.59
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BookingApi", "BookingApi\BookingApi.csproj", "{D7EB02FC-3D99-46EB-8DC9-F3C7FAE1BD96}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Presentation", "Presentation\Presentation.csproj", "{9D17CA46-2A25-4A6B-8928-35BB2EB6D0CE}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -18,5 +20,9 @@ Global
 		{D7EB02FC-3D99-46EB-8DC9-F3C7FAE1BD96}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D7EB02FC-3D99-46EB-8DC9-F3C7FAE1BD96}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D7EB02FC-3D99-46EB-8DC9-F3C7FAE1BD96}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9D17CA46-2A25-4A6B-8928-35BB2EB6D0CE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9D17CA46-2A25-4A6B-8928-35BB2EB6D0CE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9D17CA46-2A25-4A6B-8928-35BB2EB6D0CE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9D17CA46-2A25-4A6B-8928-35BB2EB6D0CE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
