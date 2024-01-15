@@ -17,6 +17,6 @@ public class CityController : ControllerBase
     public IActionResult Index()
     {
         _logger.LogInformation(">> Load index page");
-        return Ok("Hello world!!!");
+        return Ok("Hello world!!");
     }
 }

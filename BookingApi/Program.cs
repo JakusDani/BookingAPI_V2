@@ -7,7 +7,7 @@ builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
 builder.Services.AddControllers()
     .AddApplicationPart(typeof(Presentation.AssemblyReference).Assembly);
-builder.Host.SerilogConfig();
+builder.Logging.SerilogConfig();
 
 var app = builder.Build();
 
